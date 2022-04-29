@@ -3,3 +3,4 @@ swi-prolog
 qemu-user
 gcc-arm-linux-gnueabi
 gcc-multilib
+libc6-dev
