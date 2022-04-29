@@ -2,3 +2,4 @@ erlang
 swi-prolog
 qemu-user
 gcc-arm-linux-gnueabi
+gcc-multilib
