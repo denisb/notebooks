@@ -3,6 +3,5 @@ swi-prolog
 qemu-user
 gcc-arm-linux-gnueabi
 libc-dev
-glibc-devel
 libc6-dev-mipsel-cross
 build-essential
