@@ -2,4 +2,7 @@ erlang
 swi-prolog
 qemu-user
 gcc-arm-linux-gnueabi
-libc6-dev
+libc-dev
+glibc-devel
+libc6-dev-mipsel-cross
+build-essential
