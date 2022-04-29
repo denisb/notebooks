@@ -1,7 +1,4 @@
 erlang
 swi-prolog
 qemu-user
-gcc-arm-linux-gnueabi
-libc-dev
-libc6-dev-mipsel-cross
-build-essential
+gcc-multilib
