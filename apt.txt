@@ -1,4 +1,5 @@
 erlang
 swi-prolog
-gcc-8-multilib-arm-linux-gnueabi
+gcc-arm-linux-gnueabi
+libc6-dev-armel-cross
 qemu-user
