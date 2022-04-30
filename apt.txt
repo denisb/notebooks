@@ -1,5 +1,4 @@
 erlang
 swi-prolog
 qemu-user
-gcc-arm-linux-gnueabihf
-libc6-armhf-cross
+gcc-arm-linux-gnueabi
