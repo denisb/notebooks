@@ -1,0 +1,5 @@
+erlang
+swi-prolog
+gcc-arm-linux-gnueabi
+libc6-dev-armel-cross
+qemu-user
